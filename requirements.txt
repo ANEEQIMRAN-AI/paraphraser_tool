@@ -1,0 +1,24 @@
+# === FastAPI Server ===
+fastapi
+uvicorn
+
+# === LangChain & LLMs ===
+langchain
+langchain-core
+langgraph
+langchain-openai
+langchain-google-genai
+
+# === Environment Variables ===
+python-dotenv
+
+# === Typing (optional but recommended for static checking) ===
+typing-extensions
+# === OpenAI SDK (required by langchain-openai) ===
+openai
+
+# === Google Generative AI SDK (required by langchain-google-genai) ===
+google-generativeai
+
+# === For Python Compatibility ===
+pydantic
